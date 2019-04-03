@@ -1,5 +1,118 @@
-[
-  {
-  "id":1
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        }
+      ],
+      "price": 1200,
+      "colors": [
+        "red",
+        "blue"
+      ],
+      "category": 1
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        }
+      ],
+      "price": 1200,
+      "colors": [
+        "orange",
+        "black"
+      ],
+      "category": 1
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        }
+      ],
+      "price": 100,
+      "colors": [
+        "red",
+        "blue"
+      ],
+      "category": 2
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+        }
+      ],
+      "price": 800,
+      "colors": [
+        "brown",
+        "blue"
+      ],
+      "category": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "category 1"
+    },
+    {
+      "id": 2,
+      "title": "category 2"
+    }
+  ]
+}
