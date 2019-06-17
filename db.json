@@ -4,19 +4,19 @@
       "id": 1,
       "title": "Product 1",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "thumbnailUrl": "https://bit.ly/31D4Vfn",
       "images": [
         {
           "id": 1,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 2,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 3,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         }
       ],
       "price": 1200,
@@ -30,19 +30,19 @@
       "id": 2,
       "title": "Product 2",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "thumbnailUrl": "https://bit.ly/31D4Vfn",
       "images": [
         {
           "id": 1,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 2,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 3,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         }
       ],
       "price": 1200,
@@ -56,19 +56,19 @@
       "id": 3,
       "title": "Product 3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "thumbnailUrl": "https://bit.ly/31D4Vfn",
       "images": [
         {
           "id": 1,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 2,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 3,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         }
       ],
       "price": 100,
@@ -82,19 +82,19 @@
       "id": 4,
       "title": "Product 4",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "thumbnailUrl": "https://source.unsplash.com/1200x800/?sneakers",
+      "thumbnailUrl": "https://bit.ly/31D4Vfn",
       "images": [
         {
           "id": 1,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 2,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         },
         {
           "id": 3,
-          "imageUrl": "https://source.unsplash.com/1200x800/?sneakers"
+          "imageUrl": "https://bit.ly/31D4Vfn"
         }
       ],
       "price": 800,
